@@ -1,4 +1,4 @@
-number = int(input())
+number = int(input("Введите число 5 значное число"))
 x = 0
 x += 10000 * (number % 10)
 x += 1000 * (number//10 % 10)
